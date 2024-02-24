@@ -5,7 +5,6 @@ import "./App.css";
 import routes from "./routes";
 import { store } from "./store";
 import { ThemeProvider, createTheme } from "@mui/material";
-// test
 
 const theme = createTheme({
     palette: {
